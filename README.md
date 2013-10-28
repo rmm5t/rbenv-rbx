@@ -1,3 +1,7 @@
+# rbenv-rbx is DEPRECATED thanks to [sstephenson/ruby-build@dbd8c71](https://github.com/sstephenson/ruby-build/commit/dbd8c71d17c4110b1e6bfcf0e2f0ee9ef7fdb100)
+
+---
+
 # rbenv-rbx
 
 This is a plugin for [rbenv](https://github.com/sstephenson/rbenv) that fixes
